@@ -14,7 +14,7 @@ def get_random_line(file_lines, selected_lines):
 
 # File paths
 input_files_path = "D:/Bingo Game/Input/"
-output_file_path = "D:/Bingo Game/Output/Bingo Cards.csv"
+output_file_path = "D:/Bingo Game/Output/Bingo Cards Data.csv"
 
 # File names
 b_file = "BINGO_Column1_B.txt"
